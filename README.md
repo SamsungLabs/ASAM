@@ -22,18 +22,15 @@ Recently, learning algorithms motivated from sharpness of loss surface as an eff
 CIFAR-10 dataset:
 ```
 python example_cifar.py --dataset CIFAR10 --minimizer ASAM --rho 0.5
-
 ```
 CIFAR-100 dataset:
 ```
 python example_cifar.py --dataset CIFAR100 --minimizer ASAM --rho 1.0
-
 ```
 We can also run SAM optimizer for CIFAR-10 or CIFAR-100 dataset:
 ```
 python example_cifar.py --dataset CIFAR10 --minimizer SAM --rho 0.05
 python example_cifar.py --dataset CIFAR100 --minimizer SAM --rho 0.10
-
 ```
 
 
