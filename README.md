@@ -32,7 +32,3 @@ We can also run SAM optimizer for CIFAR-10 or CIFAR-100 dataset:
 python example_cifar.py --dataset CIFAR10 --minimizer SAM --rho 0.05
 python example_cifar.py --dataset CIFAR100 --minimizer SAM --rho 0.10
 ```
-
-
-## License
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/3.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/3.0/88x31.png" /></a>
