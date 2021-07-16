@@ -32,3 +32,21 @@ We can also run SAM optimizer for CIFAR-10 or CIFAR-100 dataset:
 python example_cifar.py --dataset CIFAR10 --minimizer SAM --rho 0.05
 python example_cifar.py --dataset CIFAR100 --minimizer SAM --rho 0.10
 ```
+
+# Citation
+If you found this code useful please cite our paper
+
+```
+@article{kwon2021asam,
+  title={ASAM: Adaptive Sharpness-Aware Minimization for Scale-Invariant Learning of Deep Neural Networks},
+  author={Kwon, Jungmin and Kim, Jeongseop and Park, Hyunseo and Choi, In Kwon},
+  journal={arXiv preprint arXiv:2102.11600},
+  year={2021}
+}
+```
+
+# Contributors
+Jungmin Kwon (jungmin.kwon@samsung.com)\
+Jeongseop Kim (jisean.kim@samsung.com)\
+Hyunseo Park (hyunseo.park@samsung.com)\
+In Kwon Choi (ik21.choi@samsung.com)
