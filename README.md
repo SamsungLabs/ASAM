@@ -33,7 +33,7 @@ python example_cifar.py --dataset CIFAR10 --minimizer SAM --rho 0.05
 python example_cifar.py --dataset CIFAR100 --minimizer SAM --rho 0.10
 ```
 
-# Citation
+## Citation
 If you found this code useful please cite our paper
 
 ```
@@ -45,7 +45,7 @@ If you found this code useful please cite our paper
 }
 ```
 
-# Contributors
+## Contributors
 Jungmin Kwon (jungmin.kwon@samsung.com)\
 Jeongseop Kim (jisean.kim@samsung.com)\
 Hyunseo Park (hyunseo.park@samsung.com)\
